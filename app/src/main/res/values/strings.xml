@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">MeetNSports</string>
+    <string name="home">Home</string>
+    <string name="americanFootball">American Football</string>
+    <string name="basketball">Basketball</string>
+    <string name="soccer">Soccer</string>
+    <string name="cricket">Cricket</string>
+    <string name="cycling">Biking</string>
+    <string name="esports">Esports</string>
+    <string name="fighting">Martial Arts</string>
+    <string name="fitness">Weight Training</string>
+    <string name="golf">Golf</string>
+    <string name="gymnastics">Gymnastics</string>
+    <string name="handball">Handball</string>
+    <string name="hockey">Hockey</string>
+    <string name="rugby">Rugby</string>
+    <string name="racing">Jogging and Racing</string>
+    <string name="tennis">Tennis</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="together">Sports For Everyone</string>
+    <string name="nav_open_drawer">open</string>
+    <string name="nav_close_drawer">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
